@@ -9,11 +9,8 @@ Time spent: **5** hours spent in total
 The following **required** user stories are complete:
 
 - [x] User can sign up and sign in to the login screen (+1pt)
-- [x] User sees alerts for login exceptions, i.e. "account already exists", "wrong credentials", etc. (+1pt)
 - [x] User can compose and send chat messages (+2pt)
 - [x] User can view a list of chat messages in chronological order (+2pt)
-- [x] Automatically Adjust Cell Size to Fit Text (+1pt)
-- [x] Username of chat author is displayed in each chat message (+2pt)
 - [x] Persist Logged in User (+1pt)
 
 The following **stretch** user stories are implemented:
@@ -21,12 +18,10 @@ The following **stretch** user stories are implemented:
 - [ ] User sees an activity indicator while waiting for authentication (+1pt)
 - [ ] User can pull to refresh Chat feed (+1pt)
 - [ ] Add an "Adorable Avatar" for each user by requesting an avatar from the [Adorable Avatars API](https://github.com/adorableio/avatars-api) (+2pt)
-- [x] Chat Bubble Style Design (+3pt)
 - [ ] Expand or contract the cell layout as needed to show the chat message author (user) if it exists (+2pt)
 
 The following **additional** user stories are implemented:
 
-- [x] Logout navigation controller button - added segue and took care of any memory leaks. (+1-3pts)
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -35,7 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Jhq7GWu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MiCWZKC.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -45,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [2018] [Henry Guerra]
+Copyright [2019] [Henry Guerra]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
